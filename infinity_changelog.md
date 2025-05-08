@@ -2,6 +2,7 @@
 
 ## 08/05/2025
 - Dropped Per-App Thermal Profile (was causing inconsistency and conflicts with Thermal Profile QS Tile)
+- Add Back UDFPS Customisation
 
 ## 04/05/2025
 - Nuked Display Engine
