@@ -1,5 +1,11 @@
 # Device Changelog
 
+## 06/07/2025
+- Tweak Thermal a bit
+- Import prebuilt kernel 6.1.78
+- Import Vendor Blobs from HyperOS EEA
+- Fix WPA3/WiFi6
+
 ## 08/05/2025
 - Dropped Per-App Thermal Profile (was causing inconsistency and conflicts with Thermal Profile QS Tile)
 - Added UDFPS Customisation Back
@@ -18,8 +24,4 @@
 - Added Turbo Charging Wattage Limiter in XiaomiParts
 - Switched to AIDL fingerprint instead of prebuilt  
   → Fixed Screen-off FOD for Goodix users; FPC users will retain the same experience as earlier builds.
-## 06/07/2025
-- Tweak Thermal a bit
-- Import prebuilt kernel 6.1.78
-- Import Vendor Blobs from HyperOS EEA
-- Fix WPA3/WiFi6 
+
