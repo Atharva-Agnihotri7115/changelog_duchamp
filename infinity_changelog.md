@@ -1,5 +1,16 @@
 # Device Changelog
 
+## 13/07/2025
+- Switched to OSS (Open Source) Kernel for improved performance and maintainability
+- Implemented MIUI-style color profile modes
+- Fixed color flickering issues
+- Resolved Turbo Charge (18W) not working for some users
+- Fixed Wi-Fi wakelock causing idle battery drain
+- Removed 30Hz refresh rate mode entirely
+- Fixed adaptive refresh rate behavior
+- Battery charge ETA now displays correctly
+- Reverted back to previous thermal implementation as newer ones were causing heating
+
 ## 06/07/2025
 - Tweak Thermal a bit
 - Import prebuilt kernel 6.1.78
