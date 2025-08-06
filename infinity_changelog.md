@@ -1,5 +1,15 @@
 # Device Changelog
 
+## 06/08/2025
+
+- Made the UI smoother through overlay tweaks
+- Enabled frame pacing for smoother visual performance
+- Optimized Dalvik heap configuration for better performance
+- Fixed VoWiFi functionality in Airplane Mode by enabling iWlan legacy mode
+- Integrated AOSP USB v2 audio HAL
+- Tuned ambient display to prevent burn-in
+- Imported missing display property
+
 ## 13/07/2025
 - Switched to OSS (Open Source) Kernel for improved performance and maintainability
 - Implemented MIUI-style color profile modes
