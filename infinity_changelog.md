@@ -1,5 +1,18 @@
 # Device Changelog
 
+## 05/10/2025
+
+- Initial A16 Build
+- Added Dolby
+- Added HTPR (High Touch Poiling Rate)
+- Added Option To Automatically Toggle HTPR for specific Apps/Games
+- Fixed Flickering Blurs in Background
+- Switched To Full OSS Kernel From Latest LOS Release
+- Switched To Stock Vibrators
+- Turbo Charging -> Charge Speed Limit
+- Added Core Control
+- Added HDR Control Settings
+
 ## 06/08/2025
 
 - Made the UI smoother through overlay tweaks
