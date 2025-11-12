@@ -1,5 +1,19 @@
 # Device Changelog
 
+## 12/11/2025
+
+- Switched to OSS Wi-Fi  
+- Split 2.4GHz and 5GHz hotspot bands into separate toggle options  
+- Upstreamed kernel to version 6.1.68  
+- Dropped Core Control and HTPR  
+- Fixed color flickering issue  
+- Added Aperture Camera with support for 4K@60fps video recording  
+- Fixed portrait mode in MIUI Camera  
+- Integrated Viper4Android  
+- Added OOS Dolby Audio  
+- Implemented per-app thermals  
+- Imported thermals from the Android 15 build  
+
 ## 05/10/2025
 
 - Initial A16 Build
